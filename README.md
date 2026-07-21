@@ -1,5 +1,5 @@
 # Companions
-![Swift](https://shields.io)
+<img src="https://static.wikia.nocookie.net/ipod/images/4/46/Swift_icon.png/revision/latest?cb=20220607183653" alt="Swift" width=30px/> <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Xcode_26_icon.png" alt="Xcode" width='29px'/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Apple_Intelligence.svg/3840px-Apple_Intelligence.svg.png" alt="Apple Intelligence" width='29px'/>
 
 
 A private journaling companion for iOS. You write an entry, and an on-device model reflects
@@ -10,7 +10,7 @@ doubles as a rough picture of how things have been going.
 Everything runs through Apple's **Foundation Models** framework, on device. No entry ever
 leaves the phone, and there is no account, server, or API key.
 
-Built with Swift. Made with love in Champaign, IL ❤️
+Built with Swift. Made with love for MannMukti UIUC in Champaign, IL ❤️
 
 ## Requirements
 
